@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Mazhar Saleem  
+#  Hi, I'm Mazhar Saleem  
 
 🎓 BS(CS) Student at IIUI | 💻 Flutter Developer | ☁️ Firebase Enthusiast | 🏗 Clean Architecture Advocate  
 
