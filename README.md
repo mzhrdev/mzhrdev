@@ -4,11 +4,11 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I’m a passionate **Flutter Developer** with hands-on experience in building **scalable, modern, and responsive mobile apps**.  
 I love working with **Firebase**, integrating **MVVM & Provider state management**, and ensuring **clean, maintainable codebases**.  
 
-🌱 Currently exploring advanced **app architectures** and **full-stack development**.  
+Currently exploring advanced **app architectures** and **full-stack development**.  
 🎯 Goal: To build impactful apps that solve real-world problems.  
 ---
 
